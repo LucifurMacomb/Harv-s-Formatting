@@ -1,0 +1,34 @@
+{
+  "id": "harveys-css",
+  "title": "Harvey's CSS",
+  "description": "A simple module for some cool CSS.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "manifest": "",
+  "styles": [
+    "styles/harvs.css"
+  ],
+  "authors": [
+    {
+    "name": "Harvey"
+    }
+    ]
+"packs": [
+  {
+    "label": "Formatting",
+    "type": "JournalEntry",
+    "name": "formatting",
+    "path": "packs/formatting",
+    "system": "dnd5e",
+    "ownership": {
+      "PLAYER": "OBSERVER",
+      "ASSISTANT": "OWNER"
+    },
+    "flags": {},
+    "package": "world"
+  }
+]
+}
