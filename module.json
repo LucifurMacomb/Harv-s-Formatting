@@ -11,7 +11,7 @@
   },
   "manifest": "https://raw.githubusercontent.com/LucifurMacomb/Harv-s-Formatting/main/module.json?token=GHSAT0AAAAAACOG3AOKFQ4VJTZKK45BEPCSZONADIA",
   "styles": [
-    "styles/harvs.css"
+    "./styles/harvs.css"
   ],
   "authors": [
     {
@@ -23,14 +23,9 @@
     "label": "Formatting",
     "type": "JournalEntry",
     "name": "formatting",
-    "path": "packs/formatting",
+    "path": "./packs/formatting",
     "system": "dnd5e",
-    "ownership": {
-      "PLAYER": "OBSERVER",
-      "ASSISTANT": "OWNER"
     },
-    "flags": {},
-    "package": "world"
   }
 ]
 }
