@@ -3,6 +3,8 @@
   "title": "Harvey's CSS",
   "description": "A simple module for some cool CSS.",
   "version": "1.0.0",
+  "license": "UNLICENSED",
+	"url": "https://www.patreon.com/LucifurMacomb",
   "compatibility": {
     "minimum": "10",
     "verified": "11"
