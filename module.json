@@ -24,7 +24,7 @@
     "type": "JournalEntry",
     "name": "formatting",
     "path": "./packs/formatting",
-    "system": "dnd5e",
+    "system": "dnd5e"
     },
 ]
 }
