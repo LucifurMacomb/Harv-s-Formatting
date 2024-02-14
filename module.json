@@ -9,7 +9,7 @@
     "minimum": "10",
     "verified": "11"
   },
-  "manifest": "https://raw.githubusercontent.com/LucifurMacomb/Harv-s-Formatting/main/module.json?token=GHSAT0AAAAAACOG3AOKFQ4VJTZKK45BEPCSZONADIA",
+  "manifest": "https://raw.githubusercontent.com/LucifurMacomb/Harv-s-Formatting/main/module.json",
   "styles": [
     "./styles/harvs.css"
   ],
