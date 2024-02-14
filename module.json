@@ -3,8 +3,6 @@
   "title": "Harvey's Format",
   "description": "A simple module for some CSS.",
   "version": "1.0.0",
-  "license": "UNLICENSED",
-	"url": "https://www.patreon.com/LucifurMacomb",
   "compatibility": {
     "minimum": "10",
     "verified": "11"
@@ -21,10 +19,10 @@
 "packs": [
   {
     "label": "Formatting",
-    "type": "JournalEntry",
+    "system": "dnd5e"
     "name": "formatting",
     "path": "./packs/formatting",
-    "system": "dnd5e"
+   "type": "JournalEntry",
     },
 ]
 }
